@@ -71,7 +71,7 @@ Make sure the TorchVision version aligns with your PyTorch version:
 
 Build and Install TorchVision:
 
-    python3 setup.py install
+    python3 setup.py install --user
 
     ⚠️ Note: Ensure you’ve installed dependencies (libjpeg-dev, libpng-dev, libtiff-dev) before building.
 
